@@ -1,0 +1,12 @@
+U
+degar, 5, 67, 7
+1, 2, 3, degar
+I
+1,2,3,degar,5
+4,5,degar
+D
+1, A, C, degar
+degar,C,D,23
+C
+3,4,degar,5, A, B,R
+1,B,C,D,degar

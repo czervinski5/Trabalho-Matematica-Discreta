@@ -1,0 +1,12 @@
+U
+banana, 5, 67, apple
+5, 6 , 9, 10
+I
+lucas , renan ,78 , 9, 4
+0, key
+D
+10, Ace , Cake, 349
+Air ,Cake ,234
+C
+dado,49,casa,5
+19 ,Boy ,Drake
